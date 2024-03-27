@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/kubag/Downloads/FLEXFinance/FLEXFinance"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aplikacja bankowa"
+	}
+}
